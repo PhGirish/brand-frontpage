@@ -1,0 +1,56 @@
+.hero {
+  margin: 0;
+
+  display: flex;
+}
+.hero-main {
+  margin: 40px 0 0 140px;
+}
+.hero-main > h1 {
+  width: 590px;
+  font-size: 70px;
+  font-weight: 900;
+  line-height: 90px;
+  margin-bottom: 0;
+}
+.hero-para {
+  width: 350px;
+  font-weight: 600;
+  color: #5a5959;
+  line-height: 25px;
+  margin: 36px 0;
+}
+.buy-button {
+  width: 100px;
+  height: 30px;
+  margin-right: 30px;
+  font-family: "Poppins", sans-serif;
+}
+.shop {
+  color: white;
+  background-color: #d01c28;
+  border: 1px solid red;
+}
+.category {
+  background-color: none;
+  color: gray;
+  border: 1px solid gray;
+}
+.footer {
+  font-size: small;
+  color: #5a5959;
+  line-height: 25px;
+  margin: 0;
+  margin-top: 15px;
+}
+.hero-logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  margin-top: 0;
+}
+.nike {
+  margin-top: 40px;
+  width: 530px;
+  height: 530px;
+}
